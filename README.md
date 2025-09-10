@@ -1,6 +1,6 @@
-# 🚗 Pandas Data Analysis Project
+#  Pandas Data Analysis Project
 
-## 📌 Project Overview
+##  Project Overview
 
 This project demonstrates data analysis using **Python** and
 **Pandas**.\
@@ -13,7 +13,7 @@ The analysis is divided into two Jupyter Notebooks:\
 
 ------------------------------------------------------------------------
 
-## 📂 Files in this Repository
+##  Files in this Repository
 
 -   `cars.csv` → The dataset used in this project\
 -   `David_Pandas-P1.ipynb` → Notebook with initial analysis\
@@ -22,7 +22,7 @@ The analysis is divided into two Jupyter Notebooks:\
 
 ------------------------------------------------------------------------
 
-## ⚙️ Requirements
+##  Requirements
 
 Make sure you have the following installed:\
 - Python 3.x\
@@ -37,7 +37,7 @@ pip install pandas jupyter
 
 ------------------------------------------------------------------------
 
-## ▶️ How to Run
+##  How to Run
 
 1.  Clone or download this repository\
 
@@ -53,7 +53,7 @@ pip install pandas jupyter
 
 ------------------------------------------------------------------------
 
-## 📊 Example Usage
+##  Example Usage
 
 Filtering cars by model:
 
@@ -65,6 +65,6 @@ print(result)
 
 ------------------------------------------------------------------------
 
-## ✨ Author
+##  Author
 
 Created by **David** -- Pandas Practice Project
